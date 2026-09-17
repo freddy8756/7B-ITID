@@ -26,3 +26,4 @@ grant SELECT, INSERT, UPDATE ON db_test_8b *.* TO 'support';
 /*asignar roles a los usuarios creados*/
 GRANT 'admin' TO 'marco.ramirez'@'%';
 grant 'support' TO 'samuel.vargas'@'%';
+
